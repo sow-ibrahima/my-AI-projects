@@ -1,2 +1,2 @@
-# my_datasets
-a collection of datasets on which I work 
+# my_AI_projects
+a collection of AI projects on which I work 
