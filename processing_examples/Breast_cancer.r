@@ -5,7 +5,7 @@ date: "23/10/2020"
 output: html_document
 ---
 
-Ici, nous sommes disposons d'un jeu de données sur el diagnostic du cancer du sein. Notre objectfi est ici d'essayer de voir quelles variables ont le plus d'importance déterministe pour le diagnostic final. Et si possible, nous essayerons de construire un prédicateur. 
+Ici, nous disposons d'un jeu de données sur el diagnostic du cancer du sein. Notre objectfi est ici d'essayer de voir quelles variables ont le plus d'importance déterministe pour le diagnostic final. Et si possible, nous essayerons de construire un prédicateur. 
 ### Libraries loading 
 ```{r message=FALSE, warning=FALSE, paged.print=FALSE}
 library(caret)
